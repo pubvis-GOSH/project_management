@@ -13,6 +13,15 @@ A place to put meeting notes ahead of our regular catchups.
 - Using React, but that might change if Next.js looks better,
 - Using Typescript as this is a more robust and safe way of writing code
 
+## App design
+- JH will create a document to outline all the features of the app:
+  - e.g. pages, device compatibility etc.
+  - Also put some user stories together
+
+## Tablet access
+- Are these on order?
+- JH to have one for development?
+
 ## Github pages
 - You can now access the initial webpage,
   - https://pubvis-gosh.github.io/pubvis/
