@@ -34,3 +34,9 @@ A place to put meeting notes ahead of our regular catchups.
 
 ## GOSH IT network
 - We need an email address so that I can start talking to them about deploying apps within the network,
+
+## Actions
+- JH to make the app design document/user stories,
+- JH to decide on final technology to use (React vs. Next),
+- Add David to the GitHub org when we start chatting with him,
+- AL to provide main contact for GOSH IT department,
