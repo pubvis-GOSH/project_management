@@ -10,7 +10,8 @@ A place to put meeting notes ahead of our regular catchups.
 
 ## Initial codebase
 - Setup an initial codebase,
-- Using React, but that might change if Next.js looks better
+- Using React, but that might change if Next.js looks better,
+- Using Typescript as this is a more robust and safe way of writing code
 
 ## Github pages
 - You can now access the initial webpage,
