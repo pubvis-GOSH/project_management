@@ -1,6 +1,8 @@
 # Meeting agendas
 A place to put meeting notes ahead of our regular catchups.
 
+---
+
 # 15.09.2023
 ## Image slider prototype
 - Go through the prototype app that I made for picking images with a slider,
@@ -15,6 +17,13 @@ A place to put meeting notes ahead of our regular catchups.
 - Are there any updates from the GOSH IT department?
 - Difficult to make final technology decisions until we have spoken to them.
 
+## Actions
+- James to start thinking about deployment options for both frontend, backend, and a database.
+  - Also thinking about password protection. We decided the app is fine to be publicly available on the internet as long as it sits behind a password.
+- James to get in touch with Samantha Fanning to see if a designer might be able to assist us in mid October.
+- Anne-Lise to send James and Sarah a meeting invitation September 25th at 12:30pm
+
+---
 
 # 18.08.2023
 ## Now using a GitHub organisation
