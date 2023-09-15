@@ -11,6 +11,10 @@ A place to put meeting notes ahead of our regular catchups.
 ## Artist updates
 - Scheduled a meeting with Dave for the 20th of September at 2pm. Just waiting to hear back.
 
+## GOSH IT updates?
+- Are there any updates from the GOSH IT department?
+- Difficult to make final technology decisions until we have spoken to them.
+
 
 # 18.08.2023
 ## Now using a GitHub organisation
