@@ -1,6 +1,17 @@
 # Meeting agendas
 A place to put meeting notes ahead of our regular catchups.
 
+# 15.09.2023
+## Image slider prototype
+- Go through the prototype app that I made for picking images with a slider,
+
+## User Stories
+- I made a document to start off the creation of some user stories. We should go through this together.
+
+## Artist updates
+- Scheduled a meeting with Dave for the 20th of September at 2pm. Just waiting to hear back.
+
+
 # 18.08.2023
 ## Now using a GitHub organisation
 - Go through the features and ideas,
