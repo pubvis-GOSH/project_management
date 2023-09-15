@@ -9,7 +9,7 @@ A place to put meeting notes ahead of our regular catchups.
 - I made a document to start off the creation of some user stories. We should go through this together.
 
 ## Artist updates
-- Scheduled a meeting with Dave for the 20th of September at 2pm. Just waiting to hear back.
+- Scheduled a meeting with Dave for the 20th of September at 12:30pm. Just waiting to hear back.
 
 ## GOSH IT updates?
 - Are there any updates from the GOSH IT department?
