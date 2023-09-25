@@ -12,7 +12,7 @@ A timeline of the pubvis project.
 
 The app will be developed between August 2023 - August 2024.
 
-By this time we aim to have a finished working pilot.
+We aim to have a finished working pilot by August 2024.
 
 ## Illustration development
 
