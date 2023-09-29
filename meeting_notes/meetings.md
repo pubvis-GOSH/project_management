@@ -20,6 +20,10 @@ A place to put meeting notes ahead of our regular catchups.
 - Do we want or need one?
 - Costs do apply
 
+## Dedicated repo for young participant discussions?
+- We could create a separate space for the young participant discussions,
+- This might be advantageous to keep it separate from the rest of the work (e.g. code and illustrations)
+
 ---
 
 # 15.09.2023
