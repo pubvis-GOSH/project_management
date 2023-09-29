@@ -3,6 +3,25 @@ A place to put meeting notes ahead of our regular catchups.
 
 ---
 
+# 29.09.2023
+
+## Actions from last time
+- JH reached out to Samantha regarding design help, but no response yet
+- JH decided on a tech stack and possible deployment platforms (NextJs + Vercel or Render.com)
+- JH currently working on an auth solution
+
+## Backend running costs
+- Discuss backend hosting solutions and running costs,
+- Deployment option 1: Vercel, £20 a month but comes with the best options
+- Deployment option 2: Render.com, £7 and still good options but maybe not quite as good as Vercel
+- Database in AWS: DynamoDb, if the amount of data is relatively small then it will be practically free. 11% discount from UCL
+
+## Custom domain
+- Do we want or need one?
+- Costs do apply
+
+---
+
 # 15.09.2023
 ## Image slider prototype
 - Go through the prototype app that I made for picking images with a slider,
