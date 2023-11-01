@@ -8,6 +8,10 @@ A place to put meeting notes ahead of our regular catchups.
 ## App updates
 - Now have a skeleton for the app with a working authentication solution,
 
+## App design input
+- I reached out to ISD again to see if help might still be available but have not heard back,
+- If we get no response we should probably assume design help isn't available at this time,
+
 ## Illustrations
 - JH and DS made some technical decisions on the illustrations (e.g. we will use .svg format),
 - Go over the design document and make sure that everyone is happy with it,
