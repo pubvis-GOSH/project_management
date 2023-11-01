@@ -3,6 +3,35 @@ A place to put meeting notes ahead of our regular catchups.
 
 ---
 
+# 03.11.2023
+
+## App updates
+- Now have a skeleton for the app with a working authentication solution,
+
+## Illustrations
+- JH and DS made some technical decisions on the illustrations (e.g. we will use .svg format),
+- Go over the design document and make sure that everyone is happy with it,
+
+## User stories feedback
+- User story 1:
+  - Suggests that the app should have a 'virtual' option so we should consider this,
+  - Should we account for different ages of the avatar? e.g. ages 12-13; 13-14; 14-15
+
+# App hosting and database costs
+- App hosting: we need a credit card to charge the costs against,
+- Database: we need the grant cost codes,
+
+# Tablets
+- JH needs a tablet to develop and test the app,
+
+# Recruitment
+- Any updates?
+
+# Other points of discussion
+- 
+
+---
+
 # 29.09.2023
 
 ## Actions from last time
