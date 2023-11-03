@@ -7,6 +7,8 @@ A place to put meeting notes ahead of our regular catchups.
 
 ## App updates
 - Now have a skeleton for the app with a working authentication solution,
+- Basic writing to a database working based on who is currently authenticated,
+- Started work on manipulating the avatar,
 
 ## App design input
 - I reached out to ISD again to see if help might still be available but have not heard back,
