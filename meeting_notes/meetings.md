@@ -22,19 +22,24 @@ A place to put meeting notes ahead of our regular catchups.
 - User story 1:
   - Suggests that the app should have a 'virtual' option so we should consider this,
   - Should we account for different ages of the avatar? e.g. ages 12-13; 13-14; 14-15
+    - AL said that height and weight proportions are more important than 'age',
+    - We should follow up with Dave about how he might depict different age ranges (e.g. a 15 year old),
+    - Eventually, the app should be usable by people as young as 9 up to about 15,
 
 # App hosting and database costs
 - App hosting: we need a credit card to charge the costs against,
 - Database: we need the grant cost codes,
+- Now that AL's contract has been sorted we should be able to move ahead with this in the coming weeks,
 
 # Tablets
 - JH needs a tablet to develop and test the app,
+- Again, now that AL's contract is sorted these should be on order soon,
 
 # Recruitment
 - Any updates?
 
 # Other points of discussion
-- 
+- A no-cost extension should be possible, but we should still aim for the summer 2024 deadline,
 
 ---
 
