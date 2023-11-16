@@ -7,6 +7,7 @@ A place to put meeting notes ahead of our regular catchups.
 
 # Illustrations
 - JH met with DS to discuss some more technical details of the illustrations,
+- JH started adding instructions to the Illustrations repo so that our work can be replicated.
 - Further work done on developing the best strategy for importing the illustrations into the app and manipulating them via CSS classes,
 - Some fiddly work in Adobe Illustrator was required to export custom CSS classes within the SVG,
 - Next steps: make a start on refining the SVG's
