@@ -3,6 +3,35 @@ A place to put meeting notes ahead of our regular catchups.
 
 ---
 
+# 24.11.2023
+
+# Illustrations
+- JH met with DS to discuss some more technical details of the illustrations,
+- Further work done on developing the best strategy for importing the illustrations into the app and manipulating them via CSS classes,
+- Some fiddly work in Adobe Illustrator was required to export custom CSS classes within the SVG,
+- Next steps: make a start on refining the SVG's
+  - Male and female as separate SVG's but with all the styling attributes kept consistent,
+  - Replicate the bottom body layer for both male and female to account for a range of body types/shapes/sizes (how many variations?),
+  - Figure out the best layer configuration to give maximum flexibility,
+
+# App hosting and database costs
+- App hosting: we still need a credit card to charge the costs against,
+- Database: we still need the grant cost codes,
+
+# Tablets
+- JH still needs a tablet to develop and test the app,
+
+# Recruitment
+- Any updates?
+
+---
+
+# 10.11.2023
+
+Meeting cancelled.
+
+---
+
 # 03.11.2023
 
 ## App updates
