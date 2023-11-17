@@ -28,7 +28,10 @@ A place to put meeting notes ahead of our regular catchups.
 - We still need to decide what devices the app should be used on,
 
 # Recruitment
-- Any updates?
+- Got 3 people who want to particiate so far,
+- AL sent a brief and initial questionnaire,
+- All 3 are female so far but hoping to get more diversity soon,
+- All 3 seem very enthusiastic,
 
 ---
 
