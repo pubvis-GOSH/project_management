@@ -17,9 +17,15 @@ A place to put meeting notes ahead of our regular catchups.
 # App hosting and database costs
 - App hosting: we still need a credit card to charge the costs against,
 - Database: we still need the grant cost codes,
+- AL put in a request to the finance manager, not had a response yet,
+  - AL could potentially pay for this herself and claim it back later, depends on the finance managers decision,
 
 # Tablets
 - JH still needs a tablet to develop and test the app,
+- AL ordered them but they got refused, we have now changed provider and reissued the order,
+- Currently ordered 2 tablets: one for JH and one for AL,
+- Hopefully get a response soon,
+- We still need to decide what devices the app should be used on,
 
 # Recruitment
 - Any updates?
