@@ -33,6 +33,17 @@ A place to put meeting notes ahead of our regular catchups.
 - All 3 are female so far but hoping to get more diversity soon,
 - All 3 seem very enthusiastic,
 
+# App flow
+- We discussed ideas for how the app will function in terms of who can create an account and how young people will gain access to the app,
+- We decided that the app will be restricted so that it is not completely open to anyone to make an account (for ethical reasons given the sensitivity of the project),
+  - Researchers will request access to the app, and a master admin will grant access or not,
+  - Reasearchers with an account should be able to create Users and then share a unique ID with a young person so that they can gain access,
+  - Full details to be written up in a separate document,
+- We also discussed needing to strike a balance with what is technically possible  given the time and budget constraints. For example, we could build a master admin UI interface to grant user access, but then that is another layer of complexity.
+
+# Information Governance
+- JH will set up a meeting between the pubvis team and Martin Donnelly (Head of Data Governance) to discuss data capture and storage in more depth,
+
 ---
 
 # 10.11.2023
