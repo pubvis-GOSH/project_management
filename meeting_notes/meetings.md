@@ -2,6 +2,11 @@
 
 A place to put meeting notes.
 
+- JH = James Hughes
+- AL = Anne-Lise Goddings
+- DS = Dave Smithson
+- SK = Sarah Keating
+
 ---
 
 # 21.11.2023
