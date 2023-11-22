@@ -1,9 +1,13 @@
 # Meeting agendas
-A place to put meeting notes ahead of our regular catchups.
+
+A place to put meeting notes.
+
+---
 
 # 21.11.2023
 
 Attendees: AL, DS, JH
+
 A meeting to discuss the technical details of the Illustrations.
 
 ## Avatar level of detail
