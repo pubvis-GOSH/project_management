@@ -1,11 +1,45 @@
 # Meeting agendas
 A place to put meeting notes ahead of our regular catchups.
 
+# 21.11.2023
+
+Attendees: AL, DS, JH
+A meeting to discuss the technical details of the Illustrations.
+
+## Avatar level of detail
+- AL confirmed that we should go with the maximum level of detail (Dave's option 3 illustration),
+
+## Adobe Illustrator workflow
+- JH suggested a potential workflow to use in Adobe Illustrator,
+- All major elements to be in named layers (e.g. clothes, skin, anaotomy),
+- Sub-layers (e.g. paths) to have a reusable `graphic style` so that the layer will be exported with a CSS class name
+
+## BMI
+- AL suggested that we ask the user what their approx height and weight is, then present them with 3 potential body sizes/shapes,
+- Overall, we would design the following body sizes/shapes (loosely fitting around BMI):
+  - Four body sizes: underweight, normal/underweight, normal/overweight, overweight
+  - Three body shapes: TBD (potentially something like apple, pear, triangle etc)
+  - All of the above combinations duplicated across both male and female avatars
+- We avoid extreme body sizes (e.g. very skinny or obese) as these present clinical challenges,
+- Dave said he could produce all of the above by early January
+
+## Hair and colour
+- We could ask for this information before showing an avatar to avoid biasing choices.
+- We could present colour 'swatches' so that users can select the colour that matches them, then confirm it on an actual avatar.
+
+## Zooming
+- One idea could be to zoom in on an anatomical feature to allow more precise editing
+- JH said that this is a good idea, but we need to manage expectations given the limited budget and timeline,
+
+## Actions
+- DS to produce separated SVG's for male and female and upload to GitHub,
+- DS to make a start on producing the illustrations for body size/shape,
+
 ---
 
 # 17.11.2023
 
-# Illustrations
+## Illustrations
 - JH started adding instructions to the Illustrations repo so that our work can be replicated.
 - Further work done on developing the best strategy for importing the illustrations into the app and manipulating them via CSS classes,
 - Some fiddly work in Adobe Illustrator was required to export custom CSS classes within the SVG,
@@ -14,26 +48,26 @@ A place to put meeting notes ahead of our regular catchups.
   - Replicate the bottom body layer for both male and female to account for a range of body types/shapes/sizes (how many variations?),
   - Figure out the best layer configuration to give maximum flexibility,
 
-# App hosting and database costs
+## App hosting and database costs
 - App hosting: we still need a credit card to charge the costs against,
 - Database: we still need the grant cost codes,
 - AL put in a request to the finance manager, not had a response yet,
   - AL could potentially pay for this herself and claim it back later, depends on the finance managers decision,
 
-# Tablets
+## Tablets
 - JH still needs a tablet to develop and test the app,
 - AL ordered them but they got refused, we have now changed provider and reissued the order,
 - Currently ordered 2 tablets: one for JH and one for AL,
 - Hopefully get a response soon,
 - We still need to decide what devices the app should be used on,
 
-# Recruitment
+## Recruitment
 - Got 3 people who want to particiate so far,
 - AL sent a brief and initial questionnaire,
 - All 3 are female so far but hoping to get more diversity soon,
 - All 3 seem very enthusiastic,
 
-# App flow
+## App flow
 - We discussed ideas for how the app will function in terms of who can create an account and how young people will gain access to the app,
 - We decided that the app will be restricted so that it is not completely open to anyone to make an account (for ethical reasons given the sensitivity of the project),
   - Researchers will request access to the app, and a master admin will grant access or not,
@@ -41,7 +75,7 @@ A place to put meeting notes ahead of our regular catchups.
   - Full details to be written up in a separate document,
 - We also discussed needing to strike a balance with what is technically possible  given the time and budget constraints. For example, we could build a master admin UI interface to grant user access, but then that is another layer of complexity.
 
-# Information Governance
+## Information Governance
 - JH will set up a meeting between the pubvis team and Martin Donnelly (Head of Data Governance) to discuss data capture and storage in more depth,
 
 ---
