@@ -48,6 +48,8 @@ A meeting to discuss the technical details of the Illustrations.
 
 # 17.11.2023
 
+Attendees: AL, JH, SK
+
 ## Illustrations
 - JH started adding instructions to the Illustrations repo so that our work can be replicated.
 - Further work done on developing the best strategy for importing the illustrations into the app and manipulating them via CSS classes,
