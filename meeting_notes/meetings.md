@@ -7,6 +7,40 @@ A place to put meeting notes.
 - DS = Dave Smithson
 - SK = Sarah Keating
 
+# 24.11.2023
+
+Attendees: AL, SK, JH
+
+# What devices should the app be used on?
+- Tablets, laptops, desktops?
+- Making it completely adaptable across all range of devices (e.g. laptops) isn't a priority for the pilot,
+- After the pilot, AL wants it to work on a broad range of tablets and computers (e.g. laptops, desktops etc.),
+  - But this is for the future of the project,
+
+## App hosting and database costs
+- AL would need to use her own credit card for AWS and Vercel as the finance team said they won't cover the costs,
+  - AL is still having discussions with the finance team though to see if there is a solution,
+  - AL asked if there is an annual cost option (need to investigate), this would be preferable for covering the costs from the grant,
+- We need to figure out a long-term solution to this as AL paying for this isn't a good option, 
+
+## Tablets
+- JH still needs a tablet to develop and test the app,
+- Plan is to order 2 surface pros,
+  - We have different screen sizes: 
+  - Also various memory sizes,
+- We are going to buy 2 tablets that are the same for now (some sort of medium range, medium screen size),
+- Hoping to get the tablets before Christmas
+
+## Recruitment
+- Ongoing discussions with the youth leader. Questions over whether communications need to funnel through the youth leader or whether direct contact is possible,
+- Should be able to navigate this as the participants are all 18+
+
+## App flow
+- We decided to go with scenario 1 in the access_control document JH made last week,
+- Researchers will make user ID's and passwords for the young people (and store in the DSH),
+- Young people will gain access to the app by entering the userID and password,
+- AL will write up a detailed document describing the app flow process and upload to github
+
 ---
 
 # 21.11.2023
