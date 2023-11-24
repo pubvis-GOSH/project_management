@@ -43,6 +43,7 @@ Attendees: AL, SK, JH
 - Young people will gain access to the app by entering the userID and password,
 - AL will write up a detailed document describing the app flow process and upload to github
 
+---
 
 # 21.11.2023
 
