@@ -9,6 +9,29 @@ A place to put meeting notes.
 
 ---
 
+# 07.12.2023
+
+Attendees: AL, SK, JH, Alex Potts
+
+A follow-on from the previous meeting on the 28.11.2023 to discuss data legalities. Overall, Alex is happy with our planned approach to data collection and storage.
+
+## Withdrawal of consent and data deletion
+- If a participant withdraws consent, we are not required by law to delete our data in AWS,
+  - It's more a question of ethics. We are not legally bound to delete their data, but if a participant requests removal of their data then we may wish to explore this in more detail with the specific user as to whether we can reasonably delete their data or not.
+- We need to be clear in our information sheets as to the processes we will adhere to,
+ 
+## Information sheets
+- The information sheet and consent process will be handled when the user visits the researcher,
+- When the user gets to the app stage, they will then tick a box that says something like: “I have been shown the information and consent forms by the researcher and have agreed to take part...”,
+- So the app itself will not be responsible for showing the information and consent forms, it’s assumed they have already been through this with the researcher,
+
+## Terms and conditions of the researcher participation
+- Alex said it’s a good idea to inform the researchers about their obligations (e.g. proper handling of the user data),
+- Just good in general to make sure the terms and conditions are presented to the researchers,
+  - How would this be handled if a new researcher requests an account? Do we send them an information sheet prior to them being 'accepted'?
+
+---
+
 # 28.11.2023
 
 Attendees: AL, SK, JH, Martin Donnelly, Rob Maughan
