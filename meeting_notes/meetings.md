@@ -9,6 +9,33 @@ A place to put meeting notes.
 
 ---
 
+# 28.11.2023
+
+Attendees: AL, SK, JH, Martin Donnelly, Rob Maughan
+
+A meeting to discuss data governance. Overall, both Martin and Rob were satisfied that our current plan for data storage is satisfactory.
+
+## Martin's thoughts
+- It might be a good idea to produce a diagram for transparency of how the data flows from the app to the database. This can be included in the code repo or another documentation location.
+- Once data has been anonymised, it is no longer considered personal data.
+
+## Rob's thoughts
+- We should include a privacy statement on the login/registration page,
+- We need to think about consent and data withdrawal,
+  - e.g. do we need a process to handle data removal if a participant withdraws their consent?
+- It’s good that we will store the personal data away from the web app data,
+- We need to make sure that all of our briefing, information sheets, and consent forms are fully transparent,
+- Storing the name and emails of researchers is fine as it’s already probably publicly available,
+- We need to make sure the researchers have the ability to reset their password,
+  - Rob's preference would be to use Azure SSO to handle authentication, but it's not essential to the project
+- Might be good to consider potential alternatives to the Data Safe Haven, but as long as researchers do have a secure enviornment to store data then that's fine.
+
+## Actions
+- Martin will introduce us to Alex Potts for a deeper discussion about the legalities of our planned approach.
+  - This is mainly as a further precaution and to get the "legal stamp of approval".
+
+---
+
 # 24.11.2023
 
 Attendees: AL, SK, JH
