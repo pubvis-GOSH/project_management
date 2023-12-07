@@ -32,6 +32,19 @@ A follow-on from the previous meeting on the 28.11.2023 to discuss data legaliti
 
 ---
 
+# 07.12.2023
+
+Attendees: JH, Chris Dye (AWS solutions architect)
+
+Meeting with Chris to discuss the technical architecture of the app and get advice.
+
+Overall, Chris was very complimentary about the current architecure and implementation. Everything has been set up nicely and will serve as a solid foundation for the rest of the app.
+
+## Actions
+- Chris will set up a meeting with an AWS solutions architect who has specific experience with DynamoDB. So they should be able to give me more specific advice on getting the most out of the service.
+
+---
+
 # 28.11.2023
 
 Attendees: AL, SK, JH, Martin Donnelly, Rob Maughan
