@@ -9,6 +9,36 @@ A place to put meeting notes.
 
 ---
 
+# 08.12.2023
+
+Attendees: AL, SK, JH, DS
+
+## Illustrations
+- Illustrations have now been split into male and female,
+- The latest version of the .svg doesn't disply quite right in the app. Something with how it was exported?
+- We need to decide on a file naming strategy,
+
+## AWS solutions architect meeting
+- JH had a meeting with an AWS solutions architect. They thought the way the app has been designed so far is very good.
+- JH will have a further meeting with an AWS DynamoDB specialist to make sure our implementation is fully optimised.
+
+## App hosting and database costs
+- JH doesn't think there are yearly plans for Vercel and AWS,
+- Vercel is $20 per month per user, so we can start with just me and see how it goes,
+  - Another option would be to have 2 users, one for the main dev (JH) and a backup user if needed,
+- AWS has a pay-as-you-go pricing model which is why our app costs should be very cheap,
+  - If we assume around 100 total users for the pilot then the AWS costs should be very minimal (possibly even close to free),
+  - UCL gets a further 12% discount with AWS,
+- JH thinks the benefits of using these services does justify the cost. We can always revisit this later if we need to change it,
+
+## Tablets
+- Have the tablets been shipped yet? JH will be in Poland from the 9th of Dec until the 30th of Dec,
+
+## Recruitment
+- Any latest updates from AL?
+
+---
+
 # 07.12.2023
 
 Attendees: AL, SK, JH, Alex Potts
