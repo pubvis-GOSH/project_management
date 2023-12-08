@@ -11,7 +11,10 @@ A place to put meeting notes.
 
 # 08.12.2023
 
-Attendees: AL, SK, JH, DS
+Attendees: SK, JH, DS
+Apologies: AL
+
+Shorter meeting as AL wasn't able to make it. So we discussed the latest Illustrations updates and expectations for mid-Jan to have a prototype of the body shapes ready.
 
 ## Illustrations
 - Illustrations have now been split into male and female,
