@@ -12,6 +12,7 @@ A place to put meeting notes.
 # 08.12.2023
 
 Attendees: SK, JH, DS
+
 Apologies: AL
 
 Shorter meeting as AL wasn't able to make it. So we discussed the latest Illustrations updates and expectations for mid-Jan to have a prototype of the body shapes ready.
