@@ -15,6 +15,7 @@ Attendees: AL, SK, JH, DS
 
 ## Illustrations
 - Illustrations have now been split into male and female,
+- Can we remove any old files that are not needed anymore in the Illustrations repo?
 - The latest version of the .svg doesn't disply quite right in the app. Something with how it was exported?
 - We need to decide on a file naming strategy,
 
