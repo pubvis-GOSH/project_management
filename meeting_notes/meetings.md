@@ -37,6 +37,10 @@ Attendees: AL, SK, JH, DS
 ## Recruitment
 - Any latest updates from AL?
 
+## Next steps
+- JH will work on the full implementation for the researcher and user registrations,
+  - This means the Illustrations work will be on hold for a while,
+
 ---
 
 # 07.12.2023
