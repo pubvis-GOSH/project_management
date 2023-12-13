@@ -20,7 +20,9 @@ Shorter meeting as AL wasn't able to make it. So we discussed the latest Illustr
 ## Illustrations
 - Illustrations have now been split into male and female,
 - Can we remove any old files that are not needed anymore in the Illustrations repo?
+  - Answer was yes, let's keep the repo clean.
 - The latest version of the .svg doesn't disply quite right in the app. Something with how it was exported?
+  - Dave will look into this.
 - We need to decide on a file naming strategy,
 
 ## AWS solutions architect meeting
@@ -31,6 +33,7 @@ Shorter meeting as AL wasn't able to make it. So we discussed the latest Illustr
 - JH doesn't think there are yearly plans for Vercel and AWS,
 - Vercel is $20 per month per user, so we can start with just me and see how it goes,
   - Another option would be to have 2 users, one for the main dev (JH) and a backup user if needed,
+  - We can deploy the app using AWS amplify if we really need to, it would be a cheaper option but less options and capabilities,
 - AWS has a pay-as-you-go pricing model which is why our app costs should be very cheap,
   - If we assume around 100 total users for the pilot then the AWS costs should be very minimal (possibly even close to free),
   - UCL gets a further 12% discount with AWS,
