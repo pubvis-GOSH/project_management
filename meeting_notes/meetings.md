@@ -22,15 +22,6 @@ A catchup after Christmas to discuss priorities going forward.
 ## Documentation
 - JH started a doc on the app repo detailing the access control procedures (i.e. how researchers and users will sign up and access the app).
 
-## Illustrations
-- 
-
-## Tablets
-- 
-
-## Recruitment
-- 
-
 ## Next steps
 - JH will continue to work on the full implementation for the researcher and user registrations,
   - This means the Illustrations work (from the app side of things) will be on hold for a while,
