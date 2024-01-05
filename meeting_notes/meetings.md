@@ -17,6 +17,9 @@ Apologies: SK
 
 A catchup after Christmas to discuss priorities going forward.
 
+## Documentation
+- JH started a doc on the app repo detailing the access control procedures (i.e. how researchers and users will sign up and access the app).
+
 ## Illustrations
 - 
 
