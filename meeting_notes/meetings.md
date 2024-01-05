@@ -11,9 +11,11 @@ A place to put meeting notes.
 
 # 08.12.2023
 
-Attendees: JH, DS, AL
+Attendees: JH
 
-Apologies: SK
+Apologies: SK, AL, DS
+
+The team couldn't make it today, so we will catchup again next week.
 
 A catchup after Christmas to discuss priorities going forward.
 
