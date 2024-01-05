@@ -11,6 +11,29 @@ A place to put meeting notes.
 
 # 08.12.2023
 
+Attendees: JH, DS, AL
+
+Apologies: SK
+
+A catchup after Christmas to discuss priorities going forward.
+
+## Illustrations
+- 
+
+## Tablets
+- 
+
+## Recruitment
+- 
+
+## Next steps
+- JH will continue to work on the full implementation for the researcher and user registrations,
+  - This means the Illustrations work (from the app side of things) will be on hold for a while,
+
+---
+
+# 08.12.2023
+
 Attendees: SK, JH, DS
 
 Apologies: AL
