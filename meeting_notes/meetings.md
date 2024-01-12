@@ -11,27 +11,11 @@ A place to put meeting notes.
 
 # 12.01.2024
 
-Attendees: JH, SK, AL
+Attendees: JH, SK
 
-Apologies: DS
+Apologies: DS, AL
 
-Our first catchup after the Christmas break. Refer to the notes from the 8th of December as we didn't manage to go through those as a group last time.
-
-## Tablets
-- Any updates?
-
-
-## Recruitment
-- Any updates?
-
-
-## Onboarding another dev
-- JH is thinking of onboarding another dev (Katie Buntic) to help out with the frontend work,
-
-
-## Next steps
-- JH will continue to work on the full implementation for the researcher and user registrations,
-  - This means the Illustrations work (from the app side of things) will be on hold for a while,
+The team couldn't make it again, so we will try to catchup again next week. We could explore the possibility of a pause to the grant until we are all able to continue with the project, JH to ask AL what she thinks about this.
 
 ---
 
