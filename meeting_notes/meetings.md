@@ -9,7 +9,29 @@ A place to put meeting notes.
 
 ---
 
-# 08.12.2023
+# 12.01.2024
+
+Attendees: JH, SK, AL
+
+Apologies: DS
+
+Our first catchup after the Christmas break. Refer to the notes from the 8th of December as we didn't manage to go through those as a group last time.
+
+## Tablets
+- Any updates?
+
+
+## Recruitment
+- Any updates?
+
+
+## Next steps
+- JH will continue to work on the full implementation for the researcher and user registrations,
+  - This means the Illustrations work (from the app side of things) will be on hold for a while,
+
+---
+
+# 05.01.2024
 
 Attendees: JH
 
