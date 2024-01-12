@@ -25,6 +25,10 @@ Our first catchup after the Christmas break. Refer to the notes from the 8th of 
 - Any updates?
 
 
+## Onboarding another dev
+- JH is thinking of onboarding another dev (Katie Buntic) to help out with the frontend work,
+
+
 ## Next steps
 - JH will continue to work on the full implementation for the researcher and user registrations,
   - This means the Illustrations work (from the app side of things) will be on hold for a while,
