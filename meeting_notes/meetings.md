@@ -9,6 +9,38 @@ A place to put meeting notes.
 
 ---
 
+# 19.01.2024
+
+Attendees: JH, AL
+
+JH and AL had a catch up about the current project status and picking up the project again after a brief pause. AL and JH are both happy to keep the project going.
+
+## Onboarding Katie
+- AL thinks this is a good idea,
+- JH will let Katie know and start the onboarding process so that Katie can start working on some frontend tasks,
+
+## Similar project at Sussex
+- JH learned of a very similar project to pubvis currently going on at the University of Sussex
+- AL would like to chat to the PI’s about the similar project to see how we might connect,
+- JH to get in touch with his contact to start discussions,
+
+## Next steps
+- We need to think about form responses and how that might be implemented
+    - e.g. have you noticed changes in hair etc.
+    - Plan is not to have free text, more likely to be scales and binary etc.
+- Need to start thinking about order of events:
+    - e.g. start with questions, then show the avatar after,
+    - AL to put some docs together,
+- Tablets are ready for AL to collect and then send to JH,
+- We are still waiting to hear back about an extension
+    - Not sure how this might affect our deadlines, preferably we want to stick to our original deadlines,
+    - We want to keep on track for the app, but the piloting might be delayed,
+- JH to catch up with Dave to see if there is a better date and time that works for him,
+    - We could schedule different meetings with Dave to keep progress moving forward,
+- AL will get the scripts and order of events sorted and also pick things up again with the young people,
+
+---
+
 # 12.01.2024
 
 Attendees: JH, SK
