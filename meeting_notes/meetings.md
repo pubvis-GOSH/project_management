@@ -31,7 +31,20 @@ Attendees: JH, AL, DS, SK, KB
 
 # Illustrations
 - The avatar shadows still need to be investigated,
-  - Dave wants to finish off the body types first and then pick up the shadows issue, 
+  - Dave wants to finish off the body types first and then pick up the shadows issue,
+
+# Side on view
+- Is it possible to have a side-on version of the illustrations, especially for things like breast development,
+- We need to evaluate if we have time and budget for this,
+- AL said it would be very beneficial to have this,
+- The side-on could just be a contour or outline, might not need to be full-featured (e.g. skin tones etc.),
+- Dave will make the illustrations anyway, and then if we have time later in the year we can implement it into the app,
+- We can evaluate how we are getting on around March time,
+
+# Meeting schedule
+- Dave said he probably will only be able to make every-other weekly meeting,
+- Everyone else is with weekly meetings,
+- Fine to have smaller meetings in the week if needed too,
 
 # Authentication and authorisation flow
 - JH made progress on building the backend to allow researchers to make an account and then create participant accounts,
@@ -41,7 +54,7 @@ Attendees: JH, AL, DS, SK, KB
  
 # Scripts and content for the app
 - AL has been working on the scripts along with her colleague,
-- 
+- AL will upload the content to a new repo,
 
 # Next steps
 - Contine onboarding and training Katie,
@@ -50,6 +63,7 @@ Attendees: JH, AL, DS, SK, KB
   - So far we have 2 (both female) who are responding, but we ideally need a male too,
   - SK to ask her contact if he would consider taking part,
 - JH to make a new repo for AL to create the content and scripts,
+- AL can't make next week,
 
 ---
 
