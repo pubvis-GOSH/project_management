@@ -6,6 +6,42 @@ A place to put meeting notes.
 - AL = Anne-Lise Goddings
 - DS = Dave Smithson
 - SK = Sarah Keating
+- KB = Katie Buntic
+
+---
+
+# 02.02.2024
+
+Attendees: JH, AL, DS, SK, KB
+
+# Katie has now joined the project
+- Katie will spend some time learning and then move on to the frontend aspects of the app (UI, avatar manipulation, design etc.)
+
+# Similar project at Sussex
+- I have asked my colleague to see who the PI is, still waiting for a reply
+
+# Tablets
+- Any updates?
+
+# Paying for services
+- I have decided to take a simpler approach to deployment,
+- So now everything is deployed to AWS including the database and the app hosting,
+- This means we don't need to pay for 2 separate services and everything is held in one place,
+- This should also make payment easier, I just need the project cost codes,
+
+# Illustrations
+- The avatar shadows still do not look right,
+
+# Authentication and authorisation flow
+- JH made progress on building the backend to allow researchers to make an account and then create participant accounts,
+- Still needs more work but the main concept is working,
+- Questions:
+  - What data should researchers enter when creating a participant account?
+
+# Next steps
+- Contine onboarding and training Katie,
+- Finish off the backend for opening researcher and participant accounts,
+
 
 ---
 
