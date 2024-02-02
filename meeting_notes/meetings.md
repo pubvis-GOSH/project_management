@@ -21,7 +21,7 @@ Attendees: JH, AL, DS, SK, KB
 - I have asked my colleague to see who the PI is, still waiting for a reply
 
 # Tablets
-- Any updates?
+- JH received the tablet.
 
 # Paying for services
 - I have decided to take a simpler approach to deployment,
