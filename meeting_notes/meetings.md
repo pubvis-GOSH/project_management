@@ -30,18 +30,26 @@ Attendees: JH, AL, DS, SK, KB
 - This should also make payment easier, I just need the project cost codes,
 
 # Illustrations
-- The avatar shadows still do not look right,
+- The avatar shadows still need to be investigated,
+  - Dave wants to finish off the body types first and then pick up the shadows issue, 
 
 # Authentication and authorisation flow
 - JH made progress on building the backend to allow researchers to make an account and then create participant accounts,
 - Still needs more work but the main concept is working,
 - Questions:
   - What data should researchers enter when creating a participant account?
+ 
+# Scripts and content for the app
+- AL has been working on the scripts along with her colleague,
+- 
 
 # Next steps
 - Contine onboarding and training Katie,
 - Finish off the backend for opening researcher and participant accounts,
-
+- AL to pick up communications again with the young people,
+  - So far we have 2 (both female) who are responding, but we ideally need a male too,
+  - SK to ask her contact if he would consider taking part,
+- JH to make a new repo for AL to create the content and scripts,
 
 ---
 
