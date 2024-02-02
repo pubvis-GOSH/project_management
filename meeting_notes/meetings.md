@@ -43,7 +43,7 @@ Attendees: JH, AL, DS, SK, KB
 
 # Meeting schedule
 - Dave said he probably will only be able to make every-other weekly meeting,
-- Everyone else is with weekly meetings,
+- Everyone else is ok with weekly meetings,
 - Fine to have smaller meetings in the week if needed too,
 
 # Authentication and authorisation flow
