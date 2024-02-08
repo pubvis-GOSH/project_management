@@ -51,6 +51,7 @@ A catchup with AL to discuss the process of researchers creating participant acc
   - Composed of a combination of words (e.g. outthinkservingdistrictsky)?
   - Are UUID's ok? (e.g. dbbc7de3-d970-42a3-b933-fa79e399ef0a)
 - Allow the researcher to create an alias (e.g. nickname) for the participant? Maybe not as this has the risk of it not being anonymous.
+- When the researcher submits a new participant, do we want to automatically upload this to the DSH? Or is it the responsibility of the researcher to submit the information to the DSH separately?
 
 # Next steps
 - JH to carry on implementing the researcher page features,
