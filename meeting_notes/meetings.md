@@ -16,6 +16,9 @@ Attendees: JH, AL, KB
 
 A catchup with AL to discuss the process of researchers creating participant accounts. A few other topics also mentioned.
 
+# Similar project at Sussex
+- The researcher from Sussex is keen to talk to us.
+
 # Project codes for paying for AWS
 - JH needs the project cost codes so he can set up the payments for AWS.
 
