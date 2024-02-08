@@ -55,20 +55,31 @@ A catchup with AL to discuss the process of researchers creating participant acc
   - AL said we should just generate a random ID automatically, rather than the researcher creating a custom alias.
 - What should the random ID look like?
   - Does it need to be short and memorable?
+    - Ideally yes,
   - Composed of a combination of words (e.g. outthink serving district sky)?
+    - Ideally yes, 
   - Are UUID's ok? (e.g. dbbc7de3-d970-42a3-b933-fa79e399ef0a)
+    - We want to avoid them in favour of something easier to remember,
   - AL said familiar and easy to remember is better, so probably a button that generates a combination of words automatically.
-  - We don't want the researcher to make up the ID themselves, maybe the ID can be generated at the point at which they submit the participant. So the researcher only has to make a password.
+  - We don't want the researcher to make up the ID themselves, maybe the ID can be generated at the point at which they submit the participant.
+  - Ideally, all the researcher has to do is click a button and the entire process of making a new participant is automated (both ID and password). If the researcher accepts, then the credentials are emailed to the researchers email address.
   - The researcher knowing the participant password is ok because the participant has already signed ethics forms giving access to their data.
-  - When the researcher makes a participant account, the participant credentials are shown on screen temporarily. Those credentials are also automatically sent to the researchers email at the same time (sending the ID and password in the same email is fine). The researcher can then send those credentials on to the participant.
-  - At the point of participant creation, we want to show some text guidance to the researcher to say how to utilise the process correctly (maybe even have a checkbox to confirm).
-  - Password resets of participants is beyond the scope of this pilot (if the credentials are lost by both researcher and participant then thats something we need to accept).
-  - Password resets for researchers does need to be implemented.
 - Allow the researcher to create an alias (e.g. nickname) for the participant? Maybe not as this has the risk of it not being anonymous.
   - No, we don't want researchers making an alias for ethical reasons.
+
+# Uploading participant data to the DSH
 - When the researcher submits a new participant, do we want to automatically upload this to the DSH? Or is it the responsibility of the researcher to submit the information to the DSH separately?
-  - The researcher needs to input the data into the DSH manually and it is up to them to maintain their own secure database in the DSH. Automating the process is beyond the scope of the pilot.
-- 
+  - The researcher needs to input the data into the DSH manually and it is up to them to maintain their own secure database in the DSH,
+  - Automating this process is beyond the scope of the pilot,
+
+# Sharing the participant credentials 
+  - When the researcher makes a participant account, the participant credentials are shown on screen temporarily. Those credentials are also automatically sent to the researchers email at the same time (sending the ID and password in the same email is fine). The researcher can then send those credentials on to the participant. It is up to the researcher to follow this process appropriately (e.g. not sending one set of credentials to more than one participant etc.),
+  - At the point of participant creation, we want to show some text guidance to the researcher to say how to follow the process correctly (maybe even have a checkbox to confirm),
+
+# Password resets
+  - Password resets of participants is beyond the scope of this pilot (if participant credentials are lost by both researcher and participant then there is nothing we can do about it),
+  - Password resets for researchers does need to be implemented in case a researcher forgets their own password,
+
 
 # Next steps
 - JH to carry on implementing the researcher page features,
