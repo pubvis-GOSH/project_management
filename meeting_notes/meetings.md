@@ -16,6 +16,16 @@ Attendees: JH, AL, KB
 
 A catchup with AL to discuss the process of researchers creating participant accounts. A few other topics also mentioned.
 
+# Katies learning progress
+- We have been having regular catchups to help Katie learn everything she needs to join the project later in February.
+
+# JH work updates
+- Created a more robust development architecture,
+- Now initialising fake data on a local development environment,
+- The entire architecture can now be created using a command with Terraform,
+- Keeping documentation up-to-date (e.g. access patterns, auth flow),
+- Chipping away at the main app features (e.g. accessing created participants list, accessing avatars, adding auth protection to API routes etc.)
+
 # Similar project at Sussex
 - The researcher from Sussex is keen to talk to us.
 
@@ -42,6 +52,7 @@ A catchup with AL to discuss the process of researchers creating participant acc
   - Are UUID's ok? (e.g. dbbc7de3-d970-42a3-b933-fa79e399ef0a)
 - Allow the researcher to create an alias (e.g. nickname) for the participant? Maybe not as this has the risk of it not being anonymous.
 
+# Next steps
 
 
 ---
