@@ -28,9 +28,11 @@ A catchup with AL to discuss the process of researchers creating participant acc
 
 # Similar project at Sussex
 - The researcher from Sussex is keen to talk to us.
+- AL will get in touch with the researchers.
 
 # Project codes for paying for AWS
 - JH needs the project cost codes so he can set up the payments for AWS.
+- AL needs a bit longer.
 
 # Tablet
 - JH tested the basic functionality of the app on the tablet and it all works.
@@ -41,17 +43,32 @@ A catchup with AL to discuss the process of researchers creating participant acc
   - Since the participant data is anonymous, should a researcher be able to access all avatar data across all participants?
   - Should the API routes be publicly available? (I'm guessing not).
 - What are the requirements for data analysis?
-  - e.g. does the data analysis need access to all avatars across all participants?
+  - Researchers should only be able to access the data belonging to their own participants.
+  - Researchers should not be able to access participant data belonging to other researchers.
+  - A master admin (e.g. AL) should ideally be able to download all data over the entire database.
+    - This could be achieved via a direct download from AWS (we need to think about this).
+    - Ideally, we want to do some analystics (e.g. how many users, what proportion of users give up half-way through etc.)
 
 # Participant creation process
 - What data should the researcher enter to create a participant?
   - random ID, password, ...?
+  - AL said we should just generate a random ID automatically, rather than the researcher creating a custom alias.
 - What should the random ID look like?
   - Does it need to be short and memorable?
-  - Composed of a combination of words (e.g. outthinkservingdistrictsky)?
+  - Composed of a combination of words (e.g. outthink serving district sky)?
   - Are UUID's ok? (e.g. dbbc7de3-d970-42a3-b933-fa79e399ef0a)
+  - AL said familiar and easy to remember is better, so probably a button that generates a combination of words automatically.
+  - We don't want the researcher to make up the ID themselves, maybe the ID can be generated at the point at which they submit the participant. So the researcher only has to make a password.
+  - The researcher knowing the participant password is ok because the participant has already signed ethics forms giving access to their data.
+  - When the researcher makes a participant account, the participant credentials are shown on screen temporarily. Those credentials are also automatically sent to the researchers email at the same time (sending the ID and password in the same email is fine). The researcher can then send those credentials on to the participant.
+  - At the point of participant creation, we want to show some text guidance to the researcher to say how to utilise the process correctly (maybe even have a checkbox to confirm).
+  - Password resets of participants is beyond the scope of this pilot (if the credentials are lost by both researcher and participant then thats something we need to accept).
+  - Password resets for researchers does need to be implemented.
 - Allow the researcher to create an alias (e.g. nickname) for the participant? Maybe not as this has the risk of it not being anonymous.
+  - No, we don't want researchers making an alias for ethical reasons.
 - When the researcher submits a new participant, do we want to automatically upload this to the DSH? Or is it the responsibility of the researcher to submit the information to the DSH separately?
+  - The researcher needs to input the data into the DSH manually and it is up to them to maintain their own secure database in the DSH. Automating the process is beyond the scope of the pilot.
+- 
 
 # Next steps
 - JH to carry on implementing the researcher page features,
