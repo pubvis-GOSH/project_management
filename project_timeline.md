@@ -26,6 +26,8 @@ Refinement of the illustrations will continue throughout the main app developmen
 
 Recruitment will start in October 2023.
 
+The young people will be between the ages of 16 - 19. This is so that they are close enough to puberty but also old enough to give effective feedback when using the app.
+
 ## Initial app piloting
 
 The app will be piloted around months 10 - 12, so June 2024 - August 2024.
