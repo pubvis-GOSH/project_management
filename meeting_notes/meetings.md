@@ -53,7 +53,8 @@ A catchup with AL to discuss the process of researchers creating participant acc
 - Allow the researcher to create an alias (e.g. nickname) for the participant? Maybe not as this has the risk of it not being anonymous.
 
 # Next steps
-
+- JH to carry on implementing the researcher page features,
+- KB to continue learning so that she can start contributing from March 2024,
 
 ---
 
