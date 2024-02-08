@@ -10,6 +10,39 @@ A place to put meeting notes.
 
 ---
 
+# 08.02.2024
+
+Attendees: JH, AL, KB
+
+A catchup with AL to discuss the process of researchers creating participant accounts. A few other topics also mentioned.
+
+# Project codes for paying for AWS
+- JH needs the project cost codes so he can set up the payments for AWS.
+
+# Tablet
+- JH tested the basic functionality of the app on the tablet and it all works.
+
+# Who has access to who's data?
+- Should a researcher only be able to access the data of participants that they created?
+  - i.e. a researcher should not be able to retreieve the avatar data of participants who were created by a different researcher.
+  - Since the participant data is anonymous, should a researcher be able to access all avatar data across all participants?
+  - Should the API routes be publicly available? (I'm guessing not).
+- What are the requirements for data analysis?
+  - e.g. does the data analysis need access to all avatars across all participants?
+
+# Participant creation process
+- What data should the researcher enter to create a participant?
+  - random ID, password, ...?
+- What should the random ID look like?
+  - Does it need to be short and memorable?
+  - Composed of a combination of words (e.g. outthinkservingdistrictsky)?
+  - Are UUID's ok? (e.g. dbbc7de3-d970-42a3-b933-fa79e399ef0a)
+- Allow the researcher to create an alias (e.g. nickname) for the participant? Maybe not as this has the risk of it not being anonymous.
+
+
+
+---
+
 # 02.02.2024
 
 Attendees: JH, AL, DS, SK, KB
