@@ -7,6 +7,19 @@ A place to put meeting notes.
 - DS = Dave Smithson
 - SK = Sarah Keating
 - KB = Katie Buntic
+- MS = monika Svata
+
+---
+
+# 23.02.2024
+
+Attendees: JH, AL, DS, SK, KB, MS
+
+Introduced Monika and set out goals for moving to a more Agile way of working (e.g. using the project board and keeping tasks within tickets).
+
+Agreed that the next logical step is to get a full prototype of an avatar working before we move on to more complex body types and shapes.
+
+Probably from here on we will keep the project organised via tickets rather than keeping detailed notes here, but I will keep this document around in case we need it.
 
 ---
 
